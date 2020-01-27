@@ -1,2 +1,2 @@
 # Sentiment-Analysis1
-Supervised Machine Learning Models to predict overal drugs performance
+Sentiment Analysis for Boeing 731 Max tragedy
